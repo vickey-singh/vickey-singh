@@ -34,6 +34,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vickey-singh&theme=radical" alt="streak stats" width="49%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickey-singh&layout=compact&theme=radical" alt="Top Langs" width="49%"/>
+</p>
+
 ---
 
 ### 🧠 Currently Learning
