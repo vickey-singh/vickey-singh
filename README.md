@@ -19,11 +19,28 @@
 
 ---
 
+
 ### 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,git,github,vscode,vercel" />
+#### 🧑‍💻 Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,c,cpp" />
+
+#### ⚙️ Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,redux,tailwind,bootstrap" />
+
+#### 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,mysql,vercel" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40px" style="margin-right:15px;" />
+  <img src="https://img.shields.io/badge/Render-2E3A59?style=flat-square&logo=render&logoColor=white" height="40px" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40px" style="margin-right:15px;" />
 </p>
+
+#### 🎨 Design
+<img src="https://skillicons.dev/icons?i=figma,photoshop" />
+
+
 
 ---
 
