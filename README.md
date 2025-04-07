@@ -42,9 +42,13 @@
 
 ### 🧠 Currently Learning
 
-- 🔹 **React + Next.js App Router**
-- 🔹 Full-stack integration with **APIs & WebSockets**
-- 🔹 Building real-world UIs with **HTML/CSS/JS only**
+- 📦 **React + Next.js App Router**
+- 🧪 Full-stack integration with **APIs & WebSockets**
+- 🚀 Full-Stack Web Development using **Next.js 14 (App Router), TypeScript, and TailwindCSS**
+- ⚙️ Building scalable UIs and integrating **REST APIs & WebSockets** for real-time features
+- 🧩 Backend concepts with **Node.js, Express, and MongoDB** for building full-stack applications
+- 💻 Project Architecture & Best Practices: Using **Zustand, Redux, and React Query**
+- 🛠️ Creating & deploying full-stack projects on **Netlify and Render**
 
 ---
 
