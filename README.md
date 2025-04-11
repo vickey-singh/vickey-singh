@@ -1,10 +1,10 @@
 <!-- Profile README.md -->
 
 <h1 align="center">Hi 👋, I'm Vickey Singh</h1>
-<h3 align="center">A passionate Frontend Web Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Web Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+Frontend+Specialist;HTML%2C+CSS%2C+JavaScript+Expert;React%2C+Next.js%2C+TailwindCSS;Always+learning+new+stuff+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+HTML%2C+CSS%2C+JavaScript+Expert;Responsive+Web+Design;React%2C+Next.js%2C+TailwindCSS;API+handling+and+data+fetching;Git%2C+GitHub+%7C+Netlify+(Deployment);Always+learning+new+stuff+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
