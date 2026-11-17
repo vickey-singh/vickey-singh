@@ -200,6 +200,20 @@ Responsive portfolio website built using HTML, CSS and JavaScript, featuring pro
 
 ---
 
+
+---
+
+<h2 align="center">🐍 My GitHub Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vickey-singh/vickey-singh/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vickey-singh/vickey-singh/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/vickey-singh/vickey-singh/output/github-snake.svg" width="100%">
+  </picture>
+</p>
+
+
 <!-- CONNECT -->
 
 <h2 align="center">🤝 Let's Connect</h2>
