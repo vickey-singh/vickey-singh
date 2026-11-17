@@ -1,97 +1,232 @@
-<!-- Profile README.md -->
 
-<h1 align="center">Hi 👋, I'm Vickey Singh</h1>
-<h3 align="center">A passionate Web Developer from India 🇮🇳</h3>
+<!-- ========================================= -->
+<!--           VICKEY SINGH PROFILE            -->
+<!-- ========================================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vickey%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Web%20Developer&descAlignY=60&descSize=18" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Developer+%F0%9F%9A%80;Building+Modern+Web+Applications;React.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+REST+API+Development;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/vickey-singh">
+<img src="https://komarev.com/ghpvc/?username=vickey-singh&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</a>
+<a href="https://github.com/vickey-singh?tab=followers">
+<img src="https://img.shields.io/github/followers/vickey-singh?label=FOLLOWERS&style=for-the-badge&color=1f6feb" alt="Followers"/>
+</a>
+
+</div>
+
+---
+
+<!-- ABOUT ME -->
+
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+HTML%2C+CSS%2C+JavaScript+Expert;Responsive+Web+Design;React%2C+Next.js%2C+TailwindCSS;API+handling+and+data+fetching;Git%2C+GitHub+%7C+Netlify+(Deployment);Always+learning+new+stuff+%F0%9F%93%9A" alt="Typing SVG" />
+  Hello! I'm <b>Vickey Singh</b>, a passionate Full Stack Web Developer from India 🇮🇳.
+  <br/>
+  I specialize in building modern, responsive and functional web applications using the <b>MERN Stack</b>.
+</p>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+- 🔭 Working on **NexLearn**
+- 💻 Specializing in **MERN Stack Development**
+- 🌱 Learning advanced backend development
+- 🚀 Building real-world web applications
+
+</td>
+<td width="50%">
+
+- 🧩 Interested in REST API development
+- 🗄️ Working with MongoDB databases
+- 🎨 Focused on responsive UI/UX
+- ⚡ Always learning and improving
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- TECH STACK -->
+
+<h2 align="center">⚡ Technologies & Tools</h2>
+
+<h3 align="center">💻 Programming Languages</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+<h3 align="center">⚙️ Frameworks & Libraries</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap" />
+</p>
+
+<h3 align="center">🗄️ Database & Development Tools</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" />
+</p>
+
+<h3 align="center">☁️ Deployment & Platforms</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vercel,netlify" />
+<img src="https://img.shields.io/badge/Render-4353FF?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+<!-- PROJECTS -->
 
-- 🔭 I’m currently working on **CryptoWeather Nexus** – a real-time dashboard for crypto & weather data  
-- 🌱 I’m learning more about **Next.js 14**, **WebSockets**, and **TypeScript**
-- 💻 I work mostly with **HTML, CSS, JavaScript** – love building clean & responsive UIs
-- 💬 Ask me about **CSS tricks, vanilla JavaScript, frontend optimization**
-- ⚡ Fun fact: I can spend hours debugging and still love it 🤓
+<h2 align="center">🚀 Featured Projects</h2>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
+<h3 align="center">🎓 NexLearn</h3>
 
-### 🚀 Tech Stack
-
-#### 🧑‍💻 Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,c,cpp" />
-
-#### ⚙️ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,redux,tailwind,bootstrap" />
-
-#### 🛠️ Tools & Platforms
+<p align="center">
+<b>Institute Management System</b>
+</p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,mysql,vercel" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40px" style="margin-right:15px;" />
-  <img src="https://img.shields.io/badge/Render-2E3A59?style=flat-square&logo=render&logoColor=white" height="40px" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40px" style="margin-right:15px;" />
+A full-stack institute management application designed to simplify academic and administrative operations.
 </p>
 
-#### 🎨 Design
-<img src="https://skillicons.dev/icons?i=figma,photoshop" />
+- 👨‍🎓 Student Management
+- 💰 Fee & Payment Management
+- 📑 Installment Adjustment
+- 🎯 Fee Waiver Management
+- 🌓 Light & Dark Theme
 
+<p align="center">
+<img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+</p>
 
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">📚 EduPortal</h3>
+
+<p align="center">
+<b>Education Management System</b>
+</p>
+
+<p>
+A comprehensive education management platform with student, teacher and administrative modules.
+</p>
+
+- 👨‍🎓 Student & Teacher Management
+- 💳 Fee, Installment & Payment
+- 📡 ZKTeco Biometric Integration
+- 📧 Automated Email Notifications
+- 📊 Examination & Result Management
+
+<p align="center">
+<img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<h3>🌐 Personal Portfolio Website</h3>
+
+Responsive portfolio website built using HTML, CSS and JavaScript, featuring project showcases and contact/enquiry form integrations with Google Sheets and Telegram Bot.
+
+<a href="https://vickey-singh.netlify.app/">
+<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2EA44F?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📈 GitHub Stats
+<!-- GITHUB ACTIVITY -->
+
+<h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vickey-singh&show_icons=true&theme=radical" alt="your github stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vickey-singh&theme=radical" alt="streak stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vickey-singh&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Contribution Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickey-singh&layout=compact&theme=radical" alt="Top Langs" width="49%"/>
+<a href="https://github.com/vickey-singh?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-161B22?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+</a>
 </p>
 
 ---
 
-### 🧠 Currently Learning
+<!-- CURRENT FOCUS -->
 
-- 📦 **React + Next.js App Router**
-- 🧪 Full-stack integration with **APIs & WebSockets**
-- 🚀 Full-Stack Web Development using **Next.js 14 (App Router), TypeScript, and TailwindCSS**
-- ⚙️ Building scalable UIs and integrating **REST APIs & WebSockets** for real-time features
-- 🧩 Backend concepts with **Node.js, Express, and MongoDB** for building full-stack applications
-- 💻 Project Architecture & Best Practices: Using **Zustand, Redux, and React Query**
-- 🛠️ Creating & deploying full-stack projects on **Netlify and Render**
+<h2 align="center">🎯 Currently Focusing On</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React.js-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+- Building scalable MERN stack applications
+- Improving REST API architecture
+- Database design and optimization
+- Authentication and application security
+- Frontend performance and responsive design
+- Deployment and production workflows
 
 ---
 
-### 📫 Connect with me
+<!-- CONNECT -->
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/vickey-kumar-singh-528862328/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="vickeykumarsingh.edu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://x.com/Vickey_Singh_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
-  </a>
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/vickey-kumar-singh-528862328/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:vickeykumarsingh.edu@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://x.com/Vickey_Singh_">
+<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://vickey-singh.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-2EA44F?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vickey-singh&theme=onedark&no-bg=true" />
-</p>
+<div align="center">
 
+<h3>💙 Thanks for visiting my profile!</h3>
 
-## 🐍 Contribution Snake
+<b>Code • Learn • Build • Repeat</b>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vickey-singh/vickey-singh/output/github-snake-dark.svg?palette=github-dark" alt="Snake animation" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
+
+</div>
